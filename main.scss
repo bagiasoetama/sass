@@ -1,0 +1,13 @@
+$bgColor : lime;
+$pColor : darkgreen;
+
+header {
+    background-color: $bgColor;
+    h1 {
+        font-size: 3rem;
+    }
+
+    p {
+        color: $pColor;
+    }
+}
